@@ -2,7 +2,7 @@
 
 Author: Jianrong Yu
 
-Design: This is a multiplayer foosball game that emphasizes on collaboration: passing and catching the ball. Single player control will almost certainly lose because the AI is pretty smart.
+Design: This is a multiplayer foosball game that emphasizes on collaboration: passing and catching the ball. One controls the defenders and the other controls the strikers. Single player control will almost certainly lose because the AI is pretty smart.
 
 Screen Shot:
 
@@ -27,7 +27,7 @@ Up key: move strikers up
 
 Down key: move strikers down
 
-Shift: when held, your players movements are accelerated. Also, holding shift and direction key at the same time, when the ball is under your control (already stopped), will move the ball horizontally.
+Shift: when held, your players movements are accelerated. Also, holding shift and direction key at the same time, when the ball is under your control (already stopped), will move the ball vertically.
 
 Space: stops the ball (You can attempt to stop the ball only when you switch to unblock and when the ball passes right thruyou)
 
